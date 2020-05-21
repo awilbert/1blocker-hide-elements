@@ -1,1 +1,1 @@
-ytd-compact-video-renderer.style-scope.ytd-watch-next-secondary-results-renderer, ytd-compact-movie-renderer.style-scope.ytd-watch-next-secondary-results-renderer, #subscribe-button.style-scope.ytd-video-secondary-info-renderer
+ytd-compact-video-renderer.style-scope.ytd-watch-next-secondary-results-renderer, ytd-compact-movie-renderer.style-scope.ytd-watch-next-secondary-results-renderer, #subscribe-button.style-scope.ytd-video-secondary-info-renderer, #sponsor-button, #analytics-button, #menu-container.style-scope.ytd-video-primary-info-renderer
